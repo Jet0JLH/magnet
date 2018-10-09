@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28E}") = "magnet-server", "magnet-server\magnet-server.vbproj", "{544439D8-5A8B-41DB-92DE-9B5112BA774D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28E}") = "magnet-client", "magnet-client\magnet-client.vbproj", "{783EFD82-E673-4658-8629-C9413F98688D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544439D8-5A8B-41DB-92DE-9B5112BA774D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544439D8-5A8B-41DB-92DE-9B5112BA774D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544439D8-5A8B-41DB-92DE-9B5112BA774D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544439D8-5A8B-41DB-92DE-9B5112BA774D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783EFD82-E673-4658-8629-C9413F98688D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783EFD82-E673-4658-8629-C9413F98688D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783EFD82-E673-4658-8629-C9413F98688D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783EFD82-E673-4658-8629-C9413F98688D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D842EB-BA21-4BF0-A570-5ED875F23C53}
+	EndGlobalSection
+EndGlobal
